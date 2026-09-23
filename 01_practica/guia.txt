@@ -1,1 +1,31 @@
-El primer paso es abrir virtual box pulsar nueva y empezar a llenar los campos, poner nombres, en iso imagen seleccionar la version de ubuntu iso, de ahi en set up quest llenar sobre la contraseña dar terminar y se creara la virtual, en specy virtual hadware en el apartado base memria seleccionar un poco mas de la mitan que te señala, en numeros de cpu poner 2 o 1 y en disco poner 25gb y le damos terminar, se deberi de estar ejerutando 
+Pasos
+
+Abrir VirtualBox.
+
+Pulsar el botón “Nueva” para crear una máquina virtual.
+
+Escribir el nombre de la máquina virtual.
+
+En Imagen ISO, seleccionar la versión de Ubuntu ISO que se utilizará.
+
+En “Set Up Guest”, llenar los campos solicitados, incluyendo la contraseña.
+
+Pulsar “Terminar” para crear la máquina virtual.
+
+Entrar a “Virtual Hardware” para configurar las características de la máquina.
+
+En “Base Memory”, seleccionar un poco más de la mitad de la memoria que recomienda VirtualBox.
+
+En “Processors”, seleccionar 1 o 2 CPU.
+
+En el apartado de disco, asignar 25 GB de almacenamiento.
+
+Pulsar “Terminar” para guardar la configuración.
+
+La máquina virtual quedará creada y deberá aparecer lista para ejecutarse.
+
+poner en el ejecutable de vs code lo siguiente:
+
+git config --global user.name "david__hernandez"
+
+ git config --global user.email "da894016@gmail.com"
